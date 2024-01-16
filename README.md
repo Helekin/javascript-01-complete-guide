@@ -16,7 +16,7 @@ Greetings! Here, you'll find a collection of exercises derived from the Udemy co
 1. Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/Helekin/bootstrap-01-v4.git
+git clone https://github.com/Helekin/javascript-01-complete-guide.git
 ```
 
 ## License
